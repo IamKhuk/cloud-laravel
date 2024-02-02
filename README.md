@@ -169,7 +169,7 @@ Here is our books in database :
 
 Everything is working correctly :) 
 
-# Thank you , I have learned some many thing on Cloud-oriented web application during the session . 
+# Thank you , I have learned so many thing on Cloud-oriented web application during the session . 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # cloud-laravel
